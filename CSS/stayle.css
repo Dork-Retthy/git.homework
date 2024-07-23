@@ -1,0 +1,19 @@
+h1{
+    font-family: "Comic Sans MS";
+    text-align: center;
+}
+h2{
+   font-family: "Comic Sans MS";
+}
+h3{
+    font-family: "Comic Sans MS";
+}
+body{
+    background-color: rgb(230, 230, 252)
+}
+hr{
+    border: 2px solid blue;
+}
+p{
+    font-family: Arial;
+}
